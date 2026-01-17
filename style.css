@@ -1,0 +1,19 @@
+html{
+    background-color: #0a0014;
+    color: #d6b3ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#image{
+    width: 250px;
+}
+
+li{
+    font-size: large;
+}
+#content{
+    background-color: #1a002b;
+}
+#container{
+    display:flex;
+    justify-content: center;
+}
